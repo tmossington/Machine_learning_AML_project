@@ -1,6 +1,6 @@
-## Machine_learning_AML_project
+# Machine_learning_AML_project
 
-# A New Version of this Project using PyTorch is in Active Development
+## A New Version of this Project using PyTorch is in Active Development
 
 This brief project analyzes flow cytometry data derived from the DREAM6 Flowcap2 Acute Myeloid Leukemia challenge. Flowcap2 was a project to characterize a range of flow cytometry data, where proteins in cells are labeled with differently colored fluorophores, and the brightness of each fluorophore is measured as each cell flow past a sensor. The brightness gives a measure of the concentration of the protein in each cell.
 
